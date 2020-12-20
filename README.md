@@ -1,6 +1,6 @@
 # 100 Days Of ML - Log
 ## This is the 100DaysOfCode challenge from December 28th, 2020 to April 7th, 2021. In this round I'm mainly focusing on Machine Learning and Artificial Intelligence. 
-[logo]: https://github.com/IAdam-Ismail/100daysofcode/master/100days.png "Logo Title Text 2"
+[logo]: https://github.com/IAdam-Ismail/100daysofcode/main/100days.png "Logo Title Text 2"
 
 <a name="toc"></a>
 ### Table of Contents 

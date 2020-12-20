@@ -1,5 +1,6 @@
 # 100 Days Of ML - Log
 ## This is the 100DaysOfCode challenge from December 28th, 2020 to April 7th, 2021. In this round I'm mainly focusing on Machine Learning and Artificial Intelligence. 
+
 <a name="toc"></a>
 ### Table of Contents 
 |Day|Focus|Day|Focus|
